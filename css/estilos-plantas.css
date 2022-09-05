@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 5% 10%;
+}
+
+blockquote {
+    margin-left: 60px;
+    font-style: italic;
+}
+
+q {
+    font-style: italic;
+}
+
+.especial-style{
+    background: url("../imagens/fundo.png");
+    border: 3px;
+    border-style: solid;
+    border-color: limegreen;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    width: 300px;
+    border: 8px;
+    border-style: solid;
+    border-color: limegreen;
+    margin: 0 auto;
+}
